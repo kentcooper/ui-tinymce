@@ -1,4 +1,7 @@
-# ui-tinymce directive [![Build Status](https://travis-ci.org/angular-ui/ui-tinymce.png)](https://travis-ci.org/angular-ui/ui-tinymce)
+#Note
+I'm using this package because there are bugs in the original repo that are not getting fixed.
+
+# ui-tinymce directive
 
 This directive allows you to add a TinyMCE editor to your form elements.
 
